@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Blue_Team-1f3a5f?style=flat-square&logoColor=79c0ff&labelColor=1f3a5f&color=79c0ff" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Blue_Team-1f3a5f?style=flat-square&color=79c0ff" alt="Blue Team">
   <img src="https://img.shields.io/badge/SOC_Analyst-1f3a5f?style=flat-square&color=79c0ff" alt="SOC Analyst">
   <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe">
   <img src="https://img.shields.io/badge/HackTheBox-Active-1A2332?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
@@ -60,12 +60,11 @@ Infrastructure & security
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=jhoaoo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=388bfd&count_private=true&include_all_commits=true&hide_title=true" />&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoaoo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&hide_title=true" />
+![](https://github-readme-streak-stats.herokuapp.com?user=jhoaoo&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoaoo&bg_color=0d1117&color=8b949e&line=388bfd&point=388bfd&area=true&area_color=1f3a5f&hide_border=true&custom_title=Contribution+activity" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=jhoaoo&bg_color=0d1117&color=8b949e&line=388bfd&point=388bfd&area=true&area_color=1f3a5f&hide_border=true&custom_title=Contribution+activity)
 
 </div>
 
