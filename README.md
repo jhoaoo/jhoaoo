@@ -41,5 +41,6 @@ Soy estudiante de **Ingeniería de Sistemas**, enfocado en el desarrollo de solu
 ---
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [Tu Nombre o Enlace a tu Perfil](https://linkedin.com/in/tu_usuario)
-- **Email:** tu.correo@email.com
+- **LinkedIn:** [Jhoaoo Sebastian Llerena Quispe](https://www.linkedin.com/in/jhoaoo-llerena-quispe-78a602331/)
+- **Email:** jhoaoollerena@gmail.com
+- **Teléfono:** +51 943733877
