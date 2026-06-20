@@ -4,14 +4,13 @@
 
 <p>
   <strong>Systems Engineering student</strong> · UCSM · Arequipa, Peru<br>
-  Blue Team &nbsp;·&nbsp; SOC Analyst &nbsp;·&nbsp; Cloud Security &nbsp;·&nbsp; IoT + AI
+  Cybersecurity · Software Development · Flutter · Firebase · IoT
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Blue_Team-1f3a5f?style=flat-square&color=79c0ff" alt="Blue Team">
-  <img src="https://img.shields.io/badge/SOC_Analyst-1f3a5f?style=flat-square&color=79c0ff" alt="SOC Analyst">
-  <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  <img src="https://img.shields.io/badge/HackTheBox-Active-1A2332?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Open_to_internships-0ea5e9?style=flat-square" alt="Open to internships">
 </p>
 
@@ -19,20 +18,34 @@
 
 ---
 
-**About**
+## About me
 
-| | |
-|---|---|
-| Focus | Defensive security, Blue Team operations and Cloud Security |
-| Currently | Security labs on TryHackMe & HTB · Local LLMs via Ollama |
-| Hardware | IoT prototypes with ESP32 + mmWave radar |
-| University | UCSM · 3rd semester · Ingeniería de Sistemas · Arequipa, Peru |
+I am a **Systems Engineering student at Universidad Católica de Santa María**, focused on building a strong technical foundation in software development, cybersecurity and applied technology projects.
+
+My current interests are:
+
+- Defensive cybersecurity and Blue Team fundamentals.
+- Mobile development with Flutter and Firebase.
+- C++ programming and academic software projects.
+- IoT prototypes using ESP32 and sensor-based systems.
+- Building a professional portfolio through GitHub.
 
 ---
 
-**Stack**
+## Current focus
 
-Languages
+| Area | Focus |
+|---|---|
+| University | Lenguajes de Programación II · C++ · STL · OOP |
+| Cybersecurity | Networking · Linux · Wireshark · Blue Team basics |
+| Mobile development | Flutter · Firebase · FlutterFlow |
+| Portfolio | Academic repositories, README documentation and project structure |
+
+---
+
+## Technical stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -40,23 +53,29 @@ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Frameworks & databases
+### Frameworks and tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Infrastructure & security
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
-**GitHub activity**
+## Featured repositories
+
+| Repository | Description |
+|---|---|
+| [`ecommerce_flutter`](https://github.com/jhoaoo/ecommerce_flutter) | Flutter ecommerce app with Firebase, authentication and local persistence. |
+| [`ucsmMobile`](https://github.com/jhoaoo/ucsmMobile) | Mobile project developed with Flutter / FlutterFlow for university-related use cases. |
+| [`ucsm2026`](https://github.com/jhoaoo/ucsm2026) | Academic repository for LP2, C++ practices, STL and university deliverables. |
+| [`Proyecto-final-c-`](https://github.com/jhoaoo/Proyecto-final-c-) | Final C++ academic project and programming practice evidence. |
+
+---
+
+## GitHub activity
 
 <div align="center">
 
@@ -70,17 +89,18 @@ Infrastructure & security
 
 ---
 
-**Certifications roadmap**
+## Roadmap
 
-| Certification | Organization | Status |
-|---|---|---|
-| CompTIA Security+ | CompTIA | In progress |
-| AWS Cloud Practitioner | Amazon Web Services | In progress |
-| SOC Level 1 | TryHackMe | Planned |
+| Goal | Status |
+|---|---|
+| Improve academic repositories documentation | In progress |
+| Build cybersecurity labs portfolio | In progress |
+| Strengthen Flutter/Firebase projects | In progress |
+| Prepare for junior internships | In progress |
 
 ---
 
-**Contact**
+## Contact
 
 <a href="https://www.linkedin.com/in/jhoaoo-llerena-quispe-78a602331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
