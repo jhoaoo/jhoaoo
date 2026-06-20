@@ -1,17 +1,18 @@
 <div align="center">
 
-<h2>Jhoaoo Sebastián Llerena Quispe</h2>
+<h1>Jhoaoo Sebastián Llerena Quispe</h1>
 
 <p>
   <strong>Systems Engineering student</strong> · UCSM · Arequipa, Peru<br>
-  Cybersecurity · Software Development · Flutter · Firebase · IoT
+  Software Development · Flutter/Firebase · C++ · Cybersecurity Foundations
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Blue_Team-1f3a5f?style=flat-square&color=79c0ff" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Open_to_internships-0ea5e9?style=flat-square" alt="Open to internships">
+  <img src="https://img.shields.io/badge/Systems_Engineering-UCSM-0A66C2?style=flat-square" alt="Systems Engineering">
+  <img src="https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/C++-Academic_Projects-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Open_to-Internships-0ea5e9?style=flat-square" alt="Open to internships">
 </p>
 
 </div>
@@ -20,58 +21,66 @@
 
 ## About me
 
-I am a **Systems Engineering student at Universidad Católica de Santa María**, focused on building a strong technical foundation in software development, cybersecurity and applied technology projects.
+I am a **Systems Engineering student at Universidad Católica de Santa María (UCSM)** in Arequipa, Peru. I am building a technical profile focused on **software development, mobile applications and cybersecurity fundamentals**, while turning academic work into a more professional GitHub portfolio.
 
-My current interests are:
-
-- Defensive cybersecurity and Blue Team fundamentals.
-- Mobile development with Flutter and Firebase.
-- C++ programming and academic software projects.
-- IoT prototypes using ESP32 and sensor-based systems.
-- Building a professional portfolio through GitHub.
+Currently, I am strengthening my skills through university projects, C++ practices, Flutter/Firebase development and hands-on learning in networking, Linux and defensive security.
 
 ---
 
 ## Current focus
 
-| Area | Focus |
+| Area | What I am working on |
 |---|---|
-| University | Lenguajes de Programación II · C++ · STL · OOP |
-| Cybersecurity | Networking · Linux · Wireshark · Blue Team basics |
-| Mobile development | Flutter · Firebase · FlutterFlow |
-| Portfolio | Academic repositories, README documentation and project structure |
+| University | Lenguajes de Programación II, C++, OOP, templates and STL |
+| Mobile development | Flutter, FlutterFlow, Firebase and app architecture |
+| Cybersecurity | Networking, Linux, Wireshark and Blue Team fundamentals |
+| Portfolio | Cleaner repositories, better documentation and project presentation |
 
 ---
 
-## Technical stack
+## Tech stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks and tools
+### Frameworks, tools and platforms
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
-## Featured repositories
+## Featured projects
 
-| Repository | Description |
+| Project | Description | Main technologies |
+|---|---|---|
+| [`ecommerce_flutter`](https://github.com/jhoaoo/ecommerce_flutter) | Ecommerce mobile app with authentication, cart persistence and Firebase integration. | Flutter · Firebase · sqflite |
+| [`ucsmMobile`](https://github.com/jhoaoo/ucsmMobile) | Mobile project built with Flutter / FlutterFlow for university-related use cases. | FlutterFlow · Flutter · Dart |
+| [`ucsm2026`](https://github.com/jhoaoo/ucsm2026) | Academic repository for LP2, C++ practices, templates, STL and university deliverables. | C++ · Git · GitHub |
+
+---
+
+## Learning roadmap
+
+| Goal | Status |
 |---|---|
-| [`ecommerce_flutter`](https://github.com/jhoaoo/ecommerce_flutter) | Flutter ecommerce app with Firebase, authentication and local persistence. |
-| [`ucsmMobile`](https://github.com/jhoaoo/ucsmMobile) | Mobile project developed with Flutter / FlutterFlow for university-related use cases. |
-| [`ucsm2026`](https://github.com/jhoaoo/ucsm2026) | Academic repository for LP2, C++ practices, STL and university deliverables. |
-| [`Proyecto-final-c-`](https://github.com/jhoaoo/Proyecto-final-c-) | Final C++ academic project and programming practice evidence. |
+| Improve C++ and STL through academic practice | In progress |
+| Strengthen Flutter/Firebase projects | In progress |
+| Build a cybersecurity fundamentals portfolio | In progress |
+| Prepare for junior internships and real project work | In progress |
 
 ---
 
@@ -89,17 +98,6 @@ My current interests are:
 
 ---
 
-## Roadmap
-
-| Goal | Status |
-|---|---|
-| Improve academic repositories documentation | In progress |
-| Build cybersecurity labs portfolio | In progress |
-| Strengthen Flutter/Firebase projects | In progress |
-| Prepare for junior internships | In progress |
-
----
-
 ## Contact
 
 <a href="https://www.linkedin.com/in/jhoaoo-llerena-quispe-78a602331/">
@@ -107,5 +105,5 @@ My current interests are:
 </a>
 &nbsp;
 <a href="mailto:jhoaoollerena@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
